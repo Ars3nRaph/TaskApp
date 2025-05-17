@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-debug-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-debug-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-debug-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-debug-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-debug-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-debug-32:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-main-34:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-debug-32:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-main-34:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-debug-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-debug-32:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-main-34:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-debug-32:\\layout_dialog_task_edit.xml.flat",
+        "source": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-main-34:\\layout\\dialog_task_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-debug-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-debug-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-debug-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-debug-32:\\layout_activity_all_tasks.xml.flat",
+        "source": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-main-34:\\layout\\activity_all_tasks.xml"
+    },
+    {
+        "merged": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-debug-32:\\layout_item_task.xml.flat",
+        "source": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-main-34:\\layout\\item_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-debug-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-debug-32:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-main-34:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-debug-32:\\mipmap-xxxhdpi_ic_launcher_round2.webp.flat",
+        "source": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-main-34:\\mipmap-xxxhdpi\\ic_launcher_round2.webp"
+    },
+    {
+        "merged": "com.example.taskapp-debug-32:/xml_network_security_config.xml.flat",
+        "source": "com.example.taskapp-main-34:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-debug-32:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-main-34:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-debug-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-debug-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-debug-32:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-main-34:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-debug-32:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-main-34:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-debug-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-debug-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-debug-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\arsen\\.gradle\\daemon\\8.11.1\\com.example.taskapp-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    }
+]

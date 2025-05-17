@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".sync.MainActivity">
+
+    <!-- Section d'identification -->
+    <LinearLayout
+        android:id="@+id/user_identification_section"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="8dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/user_identification"
+            style="@style/TitleText" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/text_username"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Nom d'utilisateur"
+                android:textSize="18sp"
+                android:padding="8dp"
+                android:background="@android:color/transparent"
+                android:inputType="none" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- Bouton de création de tâche -->
+    <Button
+        android:id="@+id/btn_create_task"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_create_task"
+        android:layout_marginTop="2dp"
+        style="@style/AppButton" />
+
+    <!-- Section de filtrage -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="16dp">
+
+        <Spinner
+            android:id="@+id/spinner_group_filter"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="@string/filter_by_group" />
+
+        <Spinner
+            android:id="@+id/spinner_priority_filter"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="@string/filter_by_priority" />
+    </LinearLayout>
+
+    <!-- Liste des tâches de l'utilisateur -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/page1_title"
+        android:layout_marginTop="16dp"
+        style="@style/TitleText" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_user_tasks"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginTop="8dp" />
+
+    <!-- Navigation vers Page 2 -->
+    <Button
+        android:id="@+id/btn_go_to_page2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_page2"
+        android:layout_marginTop="16dp"
+        style="@style/AppButton" />
+
+</LinearLayout>

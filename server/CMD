@@ -1,0 +1,15 @@
+./deploy_server.sh
+
+cd server
+source venv/bin/activate
+gunicorn --bind 0.0.0.0:5000 wsgi:app
+
+
+---------------
+Start Auto:
+
+sudo systemctl start myserver.service
+
+sudo systemctl status myserver.service
+
+sudo systemctl stop myserver.service

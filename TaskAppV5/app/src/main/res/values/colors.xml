@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    
+    <!-- Couleurs pour les priorités -->
+    <color name="priority_1">#4CAF50</color> <!-- Vert -->
+    <color name="priority_2">#FF9800</color> <!-- Orange -->
+    <color name="priority_3">#F44336</color> <!-- Rouge -->
+    
+    <!-- Autres couleurs -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="light_gray">#EEEEEE</color>
+    <color name="dark_gray">#666666</color>
+</resources>

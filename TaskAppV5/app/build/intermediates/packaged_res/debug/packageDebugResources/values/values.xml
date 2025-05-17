@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="dark_gray">#666666</color>
+    <color name="light_gray">#EEEEEE</color>
+    <color name="priority_1">#4CAF50</color>
+    <color name="priority_2">#FF9800</color>
+    <color name="priority_3">#F44336</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">TaskAPP</string>
+    <string name="btn_cancel">Annuler</string>
+    <string name="btn_create_task">Créer une tâche</string>
+    <string name="btn_page1">Mes Tâches</string>
+    <string name="btn_page2">Toutes les Tâches</string>
+    <string name="btn_save">Enregistrer</string>
+    <string name="btn_validate">Valider</string>
+    <string name="error_creating_task">Erreur lors de la création de la tâche</string>
+    <string name="error_deleting_task">Erreur lors de la suppression de la tâche</string>
+    <string name="error_loading_tasks">Erreur lors du chargement des tâches</string>
+    <string name="error_server_connection">Erreur de connexion au serveur</string>
+    <string name="error_updating_task">Erreur lors de la mise à jour de la tâche</string>
+    <string name="filter_by_date">Filtrer par date</string>
+    <string name="filter_by_group">Filtrer par groupe</string>
+    <string name="filter_by_priority">Filtrer par priorité</string>
+    <string name="page1_title">Mes Tâches</string>
+    <string name="page2_title">Toutes les Tâches</string>
+    <string name="priority_1">Faible (1)</string>
+    <string name="priority_2">Moyenne (2)</string>
+    <string name="priority_3">Haute (3)</string>
+    <string name="sync_completed">Synchronisation terminée</string>
+    <string name="sync_in_progress">Synchronisation en cours...</string>
+    <string name="task_completed">Terminée</string>
+    <string name="task_created">Tâche créée avec succès</string>
+    <string name="task_deleted">Tâche supprimée avec succès</string>
+    <string name="task_description">Description</string>
+    <string name="task_due_date">Date de fin</string>
+    <string name="task_group">Groupe</string>
+    <string name="task_priority">Priorité</string>
+    <string name="task_title">Titre</string>
+    <string name="task_updated">Tâche mise à jour avec succès</string>
+    <string name="user_identification">Identification</string>
+    <string name="username_hint">Nom d\'utilisateur</string>
+    <style name="AppButton" parent="Widget.AppCompat.Button">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:layout_margin">4dp</item>
+    </style>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="TaskItem">
+        <item name="android:padding">12dp</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:layout_marginBottom">4dp</item>
+        <item name="android:background">@color/light_gray</item>
+    </style>
+    <style name="TitleText">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:layout_margin">8dp</item>
+    </style>
+</resources>

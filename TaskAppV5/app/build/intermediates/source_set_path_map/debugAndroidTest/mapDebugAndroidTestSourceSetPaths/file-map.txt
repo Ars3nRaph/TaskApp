@@ -1,0 +1,4 @@
+com.example.taskapp.test.app-androidTest-0 C:\Users\arsen\Documents\TaskAPP_Archive\TaskAppV5\app\build\generated\res\resValues\androidTest\debug
+com.example.taskapp.test.app-mergeDebugAndroidTestResources-1 C:\Users\arsen\Documents\TaskAPP_Archive\TaskAppV5\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.taskapp.test.app-mergeDebugAndroidTestResources-2 C:\Users\arsen\Documents\TaskAPP_Archive\TaskAppV5\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.taskapp.test.app-debugAndroidTest-3 C:\Users\arsen\Documents\TaskAPP_Archive\TaskAppV5\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".sync.AllTasksActivity">
+
+    <!-- Titre de la page -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/page2_title"
+        style="@style/TitleText" />
+
+    <!-- Section de filtrage par groupe -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="8dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/filter_by_group"
+            android:layout_gravity="center_vertical" />
+
+        <Spinner
+            android:id="@+id/spinner_group_filter_all"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp" />
+    </LinearLayout>
+
+    <!-- Liste de toutes les tâches -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_all_tasks"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginTop="16dp" />
+
+    <!-- Statut de synchronisation -->
+    <TextView
+        android:id="@+id/text_sync_status"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sync_completed"
+        android:gravity="center"
+        android:layout_marginTop="8dp"
+        android:textStyle="italic" />
+
+    <!-- Navigation vers Page 1 -->
+    <Button
+        android:id="@+id/btn_go_to_page1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_page1"
+        android:layout_marginTop="16dp"
+        style="@style/AppButton" />
+
+    <Button
+        android:id="@+id/btn_open_settings"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Paramètres" />
+
+</LinearLayout>

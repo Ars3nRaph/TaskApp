@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TaskAPP</string>
+
+    <!-- Textes généraux -->
+    <string name="page1_title">Mes Tâches</string>
+    <string name="page2_title">Toutes les Tâches</string>
+    <string name="btn_create_task">Créer une tâche</string>
+    <string name="btn_page1">Mes Tâches</string>
+    <string name="btn_page2">Toutes les Tâches</string>
+
+    <!-- Identification utilisateur -->
+    <string name="user_identification">Identification</string>
+    <string name="username_hint">Nom d\'utilisateur</string>
+    <string name="btn_validate">Valider</string>
+
+    <!-- Création/Modification de tâche -->
+    <string name="task_title">Titre</string>
+    <string name="task_description">Description</string>
+    <string name="task_group">Groupe</string>
+    <string name="task_priority">Priorité</string>
+    <string name="task_due_date">Date de fin</string>
+    <string name="btn_save">Enregistrer</string>
+    <string name="btn_cancel">Annuler</string>
+    <string name="task_completed">Terminée</string>
+
+    <!-- Priorités -->
+    <string name="priority_1">Faible (1)</string>
+    <string name="priority_2">Moyenne (2)</string>
+    <string name="priority_3">Haute (3)</string>
+
+    <!-- Filtres -->
+    <string name="filter_by_group">Filtrer par groupe</string>
+    <string name="filter_by_date">Filtrer par date</string>
+    <string name="filter_by_priority">Filtrer par priorité</string>
+
+    <!-- Messages -->
+    <string name="task_created">Tâche créée avec succès</string>
+    <string name="task_updated">Tâche mise à jour avec succès</string>
+    <string name="task_deleted">Tâche supprimée avec succès</string>
+    <string name="error_creating_task">Erreur lors de la création de la tâche</string>
+    <string name="error_updating_task">Erreur lors de la mise à jour de la tâche</string>
+    <string name="error_deleting_task">Erreur lors de la suppression de la tâche</string>
+    <string name="error_loading_tasks">Erreur lors du chargement des tâches</string>
+    <string name="error_server_connection">Erreur de connexion au serveur</string>
+    <string name="sync_in_progress">Synchronisation en cours...</string>
+    <string name="sync_completed">Synchronisation terminée</string>
+</resources>

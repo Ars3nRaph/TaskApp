@@ -1,0 +1,19 @@
+Page 1:
+- Afficher tous les Groupes dans un tableau, à coté de chaque numéro de groupes doit apparaitre le nombre de tâche pour ce groupe.
+ En appuyant sur un Groupe, une page doit s'ouvrir affichant toutes les tâches de l'utilisateur pour ce groupe, automatiqument triée par date et prioritée du plus récent au plus lointain
+- Bloquer la possibilitée de pouvoir mettre une date antérieur à la date du jour dans la création de tâche.
+
+
+
+Page 2:
+- Ajout du nom d'utilisateur qui a créé la tâche dans la page 2
+
+
+Page Paramètre:
+- Option suppression de l'utilisateur avec confirmation du nom de l'utilisateur qui va etre supprimé
+
+
+Autre:
+
+- Reminder/Notif en cas de retard (Nouvel page ?)
+- Modelé les le contour des box de Tâche et mettre un fond de couleur (PMI?)
